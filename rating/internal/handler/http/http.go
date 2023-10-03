@@ -8,7 +8,7 @@ import (
 	"strconv"
 
 	"github.com/movieeapp/rating/internal/controller/rating"
-	"github.com/movieeapp/rating/internal/pkg/model"
+	"github.com/movieeapp/rating/pkg/model"
 )
 
 // Handler defines a rating service controller.

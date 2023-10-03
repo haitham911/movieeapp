@@ -3,8 +3,8 @@ package memory
 import (
 	"context"
 
-	"github.com/movieeapp/rating/internal/pkg/model"
 	"github.com/movieeapp/rating/internal/repository"
+	"github.com/movieeapp/rating/pkg/model"
 )
 
 // Repository defines a rating repository.

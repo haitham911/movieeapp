@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/movieeapp/rating/internal/pkg/model"
 	"github.com/movieeapp/rating/internal/repository"
+	"github.com/movieeapp/rating/pkg/model"
 )
 
 // ErrNotFound is returned when no ratings are found for a
